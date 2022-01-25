@@ -1,0 +1,3 @@
+punks[0].save( './punk-0000.png' )
+punks[2890].save( './punk-2890.png' )
+punks[8219].save( './punk-8219.png')
